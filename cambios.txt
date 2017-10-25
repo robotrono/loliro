@@ -1,0 +1,53 @@
+abra_db.txt Igual
+achievement_db.txt Igual
+attr_fix.txt Igual
+castle_db.txt Igual
+channel_db.txt Igual
+# const.txt Diferentes Linea: 254 a 259 Linea: 466 Linea: 603
+create_arrow_db.txt Igual
+exp.txt Igual
+exp2.txt Igual
+exp_homun.txt Igual
+# faction_db.txt Diferente Linea: 35
+# gm_color_db.txt Diferente Linea: 9
+# guild_skill_tree.txt Diferente Linea: 28
+homun_skill_tree.txt Igual
+homunculus_db.txt Igual
+# item_avail.txt Diferente Linea: 13 a 16
+item_bluebox.txt Igual
+# item_buyingstore.txt Diferente Linea: 849 7058  // Gullraifnir No existe
+# item_cardalbum.txt Diferente Linea: 299 No existe 3,4354,1	// Gemini-S58 Card ### Linea: 325 3,4392,1	// Observation Card Linea: 353 3,4429,1	// Salamander Card ##### Linea: 371 a 1104 
+item_cookie_bag.txt Igual
+item_customrates.txt Igual
+# item_db.txt todo diferente (hay que cambiarlo por el original)
+# item_db2.txt todo diferente
+item_db_ancient.txt Igual
+item_db_logs.txt Igual
+// item_dbori.txt no existe
+# item_delay.txt Diferente Linea: 17 a 18
+item_findingore.txt Igual
+item_giftbox.txt Igual
+# item_group_db.txt Diferente Linea: 10
+// item_kawaiibox.txt no existe
+# item_misc.txt Diferente Linea: 83 Linea: 380 - 646 Linea: 721
+# item_noequip.txt Diferente TODO 
+item_scroll.txt Igual
+item_terrahats.txt Igual
+# item_trade.txt  Diferente 
+# item_vending.txt Diferente
+item_violetbox.txt Igual
+job_db1.txt Igual
+job_db2.txt Igual
+lang_db.txt Igual
+# map_index.txt Diferente
+mercenary_db.txt Igual
+mercenary_skill_db.txt Igual
+# mob_avail.txt Diferente
+# mob_boss.txt Diferente Linea: 42
+mob_branch.txt Igual
+mob_chat_db.txt Igual
+mob_customrates.txt Igual
+
+	
+
+
